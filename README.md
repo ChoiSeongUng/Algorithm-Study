@@ -23,7 +23,7 @@ Algorithm Study for coding test (with SPAM)
 ### :rainbow: Contributors
 | [팀장_백영길](https://github.com) | [현예성](https://github.com) | [강호석](https://github.com) |
 |:-------------------:|:-------------------:|:-------------------:|
-| [김명건](https://github.com)   | [김남우](https://github.com) | [최성웅](https://github.com/ChoiSeongUng) |
+| **[김명건](https://github.com)**   | **[김남우](https://github.com)** | **[최성웅](https://github.com/ChoiSeongUng)** |
 
 
 
@@ -31,16 +31,16 @@ Algorithm Study for coding test (with SPAM)
 
 |        | 1                                                            | 2                                                            | 3                                                            |
 | :----: | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1주차  | [The Role of Algorithms]            | [Getting Started](https://programmers.co.kr/learn/courses/30/parts/12198)            |                                     |
-| 2주차  | [Growth of Functions]               | [Divide and Conquer](https://programmers.co.kr/learn/courses/30/parts/12230)         |                                     |
-| 3주차  | [Probabilistic Analysis and Randomized Algorithms]         | [Heapsort](https://programmers.co.kr/learn/courses/30/parts/12117)      |                 |
+| 1주차  | The Role of Algorithms            | [Getting Started](https://programmers.co.kr/learn/courses/30/parts/12198)            |                                     |
+| 2주차  | Growth of Functions               | [Divide and Conquer](https://programmers.co.kr/learn/courses/30/parts/12230)         |                                     |
+| 3주차  | Probabilistic Analysis and Randomized Algorithms         | [Heapsort](https://programmers.co.kr/learn/courses/30/parts/12117)      |                 |
 | 4주차  | [Quick Sort](https://programmers.co.kr/learn/courses/30/parts/12198) | [Hash tables](https://programmers.co.kr/learn/courses/30/parts/12077)  |            |
-| 5주차  |      |      |      |
+| 5주차  |**continue...**      |      |      |
 | 6주차  |      |      |      |
 | 7주차  |      |      |      |
 | 8주차  |      |      |      |
 | 9주차  |      |      |      |
-| 10주차 |      |      |**continue**|
+| 10주차 |      |      |      |
 
                     
 
