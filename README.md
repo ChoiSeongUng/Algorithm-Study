@@ -20,14 +20,14 @@ Algorithm Study for coding test (with SPAM)
 - [git 사용법 정리](https://backlog.com/git-tutorial/kr/) 
 
 
-### :rainbow: Contributors
+### :cloud: Contributors
 | [팀장_백영길](https://github.com) | [현예성](https://github.com) | [강호석](https://github.com) |
 |:-------------------:|:-------------------:|:-------------------:|
 | **[김명건](https://github.com)**   | **[김남우](https://github.com)** | **[최성웅](https://github.com/ChoiSeongUng)** |
 
 
 
-### :rainbow: Week Study
+### :cloud: Week Study
 
 |        | 1                                                            | 2                                                            | 3                                                            |
 | :----: | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -46,4 +46,4 @@ Algorithm Study for coding test (with SPAM)
 
 ### :rainbow: Additional Study
 
-#### :cloud: 기타
+#### :light: 기타
