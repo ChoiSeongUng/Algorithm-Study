@@ -44,6 +44,6 @@ Algorithm Study for coding test (with SPAM)
 
 ### :rainbow: Additional Study
 
-- 교재 학습이 완료 되면 다양한 기출 문제 등을 통해 본격적인 코딩 테스트 준비를 진행할 계획입니다.
+- 교재 학습이 완료되면 다양한 기출 문제 등을 통해 본격적인 코딩 테스트 준비를 진행할 계획입니다.
 
 #### :heavy_exclamation_mark: 기타
