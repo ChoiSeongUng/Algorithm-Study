@@ -1,7 +1,5 @@
-# Algorithm-Study
+# :tiger: Algorithm-Study
 Algorithm Study for coding test (with SPAM)
-
-# KNU-AlgorithmStudy
 
 ### 알고리즘 사이트
 
@@ -46,4 +44,4 @@ Algorithm Study for coding test (with SPAM)
 
 ### :rainbow: Additional Study
 
-#### :light: 기타
+#### :heavy_exclamation_mark: 기타
