@@ -19,8 +19,7 @@ Algorithm Study for coding test (with SPAM)
 
 
 ### :cloud: Contributors
-| [팀장_백영길](https://github.com) | [현예성](https://github.com) | [강호석](https://github.com) | [유재형](https://github.com) |
-|:-------------------:|:-------------------:|:-------------------:|
+| **[팀장_백영길](https://github.com)** | **[현예성](https://github.com)** | **[강호석](https://github.com)** | **[유재형](https://github.com)** |
 | **[김명건](https://github.com)**   | **[김남우](https://github.com)** | **[최성웅](https://github.com/ChoiSeongUng)** | |
 
 
