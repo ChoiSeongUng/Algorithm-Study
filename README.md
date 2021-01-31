@@ -30,10 +30,10 @@ Algorithm Study for coding test (with SPAM)
 
 |        | 학습 내용                                                            | 실습 문제                                                            |
 | :----: | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1주차  | The Role of Algorithms            | [Getting Started](https://programmers.co.kr/learn/courses/30/parts/12198)            |
+| 1주차  | The Role of Algorithms            | [Sort](https://programmers.co.kr/learn/courses/30/parts/12198)            |
 | 2주차  | Growth of Functions               | [Divide and Conquer](https://programmers.co.kr/learn/courses/30/parts/12230)         |
 | 3주차  | Probabilistic Analysis and Randomized Algorithms         | [Heapsort](https://programmers.co.kr/learn/courses/30/parts/12117)      |
-| 4주차  | [Quick Sort](https://programmers.co.kr/learn/courses/30/parts/12198) | [Hash tables](https://programmers.co.kr/learn/courses/30/parts/12077)  |
+| 4주차  | [Sort(Advanced)](https://programmers.co.kr/learn/courses/30/parts/12198) | [Hash tables](https://programmers.co.kr/learn/courses/30/parts/12077)  |
 
 ### :cloud: Week Study - 2nd / 교재: 파이썬 알고리즘 스터디 (from 2021-01-31)
 
