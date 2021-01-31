@@ -23,6 +23,9 @@ Algorithm Study for coding test (with SPAM)
 |:-------------------:|:-------------------:|:-------------------:|
 | **[김명건](https://github.com)**   | **[김남우](https://github.com)** | **[최성웅](https://github.com/ChoiSeongUng)** |
 
+|:-------------------:|:-------------------:|:-------------------:|
+| **[유재형](https://github.com)**   |    |    |
+
 
 
 ### :cloud: Week Study
