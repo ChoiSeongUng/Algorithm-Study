@@ -5,8 +5,8 @@ Algorithm Study for coding test (with SPAM)
 
 > 스터디 내용에 대한 실습은 다음 사이트를 통해 진행됩니다.
 
-[프로그래머스](https://programmers.co.kr/learn/challenges)
-[리트코드](https://leetcode.com)
+- [프로그래머스](https://programmers.co.kr/learn/challenges)  
+- [리트코드](https://leetcode.com)
 
 ## :fire:알고리즘 스터디:fire: 진행방식
 
@@ -28,21 +28,21 @@ Algorithm Study for coding test (with SPAM)
 
 ### :cloud: Week Study - 1st (in 2020)
 
-|        | 1                                                            | 2                                                            | 3                                                            |
-| :----: | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1주차  | The Role of Algorithms            | [Getting Started](https://programmers.co.kr/learn/courses/30/parts/12198)            |                                     |
-| 2주차  | Growth of Functions               | [Divide and Conquer](https://programmers.co.kr/learn/courses/30/parts/12230)         |                                     |
-| 3주차  | Probabilistic Analysis and Randomized Algorithms         | [Heapsort](https://programmers.co.kr/learn/courses/30/parts/12117)      |                 |
-| 4주차  | [Quick Sort](https://programmers.co.kr/learn/courses/30/parts/12198) | [Hash tables](https://programmers.co.kr/learn/courses/30/parts/12077)  |             |
+|        | 학습 내용                                                            | 실습 문제                                                            |
+| :----: | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1주차  | The Role of Algorithms            | [Getting Started](https://programmers.co.kr/learn/courses/30/parts/12198)            |
+| 2주차  | Growth of Functions               | [Divide and Conquer](https://programmers.co.kr/learn/courses/30/parts/12230)         |
+| 3주차  | Probabilistic Analysis and Randomized Algorithms         | [Heapsort](https://programmers.co.kr/learn/courses/30/parts/12117)      |
+| 4주차  | [Quick Sort](https://programmers.co.kr/learn/courses/30/parts/12198) | [Hash tables](https://programmers.co.kr/learn/courses/30/parts/12077)  |
 
 ### :cloud: Week Study - 2nd / 교재: 파이썬 알고리즘 스터디 (from 2021-01-31)
 
-|        | 1                                                            | 2                                                            | 3                                                            |
-| :----: | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1주차  |               |               |               |
-| 2주차  |               |               |               |
-| 3주차  |               |               |               |
-| 4주차  |               |               |               |
+|        | 학습 범위                                                            | 학습 내용                                                            |
+| :----: | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1주차  |3장, 4장, 5장               |파이썬, 빅오, 자료형, 리스트, 딕셔너리               |
+| 2주차  |               |               |
+| 3주차  |               |               |
+| 4주차  |               |               |
 
                     
 
